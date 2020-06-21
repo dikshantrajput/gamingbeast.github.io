@@ -631,7 +631,7 @@ textarea:hover{
     }
     .all-cards{
         padding: 1em 0;
-        width: 95%;
+        width: 90%;
     }
     .card{
         margin-top:2em;
@@ -643,6 +643,15 @@ textarea:hover{
     .form-container{
         width:90%;
         padding: 1em;
+    }
+    .sec4-cards{
+        height:120vh;
+    }
+    .sec4-card{
+        margin:0 2em;
+    }
+    .section4{
+        padding: 3em 0;
     }
     .section5 h1{
         font-size: 1.5em;
